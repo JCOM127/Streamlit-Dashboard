@@ -1,0 +1,501 @@
+ID_Proyecto,Fecha_Inicio,Region,Departamento,Categoria,Estado,Presupuesto_USD,Poblacion_Beneficiada,Nivel_Impacto
+PRJ-2026000,2023-04-13,Caribe,Magdalena,Infraestructura,En Ejecución,21254577.42,40428,Medio
+PRJ-2026001,2024-03-11,Pacífica,Chocó,Medio Ambiente,En Ejecución,1318224.37,10747,Medio
+PRJ-2026002,2023-12-15,Amazonía,Caquetá,Educación,Finalizado,401157.54,41041,Bajo
+PRJ-2026003,2023-09-28,Orinoquía,Arauca,Tecnología,Finalizado,3376529.37,28412,Medio
+PRJ-2026004,2023-04-17,Caribe,Magdalena,Energía,En Ejecución,200976.24,42775,Medio
+PRJ-2026005,2023-03-13,Caribe,Atlántico,Energía,Finalizado,4147951.57,3151,Medio
+PRJ-2026006,2023-07-08,Orinoquía,Meta,Tecnología,Retrasado,2086201.83,15302,Bajo
+PRJ-2026007,2023-01-21,Orinoquía,Meta,Salud,Finalizado,3986171.66,17314,Medio
+PRJ-2026008,2023-04-13,Pacífica,Nariño,Salud,En Ejecución,4815109.65,1250,Bajo
+PRJ-2026009,2023-05-02,Andina,Santander,Medio Ambiente,En Ejecución,2239643.54,46275,Alto
+PRJ-2026010,2024-04-11,Andina,Boyacá,Medio Ambiente,Finalizado,3302701.08,17064,Medio
+PRJ-2026011,2023-08-03,Amazonía,Putumayo,Infraestructura,En Ejecución,3801338.25,19228,Medio
+PRJ-2026012,2023-11-27,Amazonía,Caquetá,Tecnología,En Ejecución,4284529.89,29224,Bajo
+PRJ-2026013,2024-04-03,Orinoquía,Casanare,Salud,Finalizado,907349.26,37320,Medio
+PRJ-2026014,2023-03-29,Caribe,Atlántico,Energía,Finalizado,1904332.44,23389,Bajo
+PRJ-2026015,2024-01-08,Pacífica,Chocó,Educación,Finalizado,3098463.26,38746,Medio
+PRJ-2026016,2023-04-10,Caribe,Bolívar,Tecnología,Finalizado,2898597.18,6933,Alto
+PRJ-2026017,2023-12-26,Pacífica,Nariño,Educación,Finalizado,4710250.8,40870,Medio
+PRJ-2026018,2023-06-01,Andina,Antioquia,Salud,En Ejecución,1112216.14,3473,Medio
+PRJ-2026019,2023-05-11,Caribe,Bolívar,Infraestructura,Finalizado,3295827.05,23232,Medio
+PRJ-2026020,2023-05-30,Caribe,Atlántico,Salud,En Ejecución,2505385.4,17309,Medio
+PRJ-2026021,2023-11-05,Amazonía,Caquetá,Medio Ambiente,En Planeación,2118832.86,23648,Bajo
+PRJ-2026022,2023-09-15,Andina,Santander,Salud,Finalizado,2900826.65,17606,Medio
+PRJ-2026023,2023-12-10,Orinoquía,Casanare,Educación,Retrasado,4657248.76,44911,Medio
+PRJ-2026024,2024-05-06,Andina,Boyacá,Educación,En Ejecución,2694920.99,41655,Medio
+PRJ-2026025,2024-02-18,Andina,Boyacá,Infraestructura,En Ejecución,4794780.41,24566,Bajo
+PRJ-2026026,2023-10-21,Orinoquía,Meta,Tecnología,En Planeación,2888517.55,5586,Alto
+PRJ-2026027,2024-01-21,Amazonía,Amazonas,Infraestructura,Finalizado,1103003.08,1267,Medio
+PRJ-2026028,2023-07-11,Andina,Boyacá,Medio Ambiente,Finalizado,2770167.97,9448,Bajo
+PRJ-2026029,2024-03-19,Pacífica,Cauca,Medio Ambiente,En Ejecución,757808.83,23725,Bajo
+PRJ-2026030,2023-10-04,Caribe,La Guajira,Educación,En Ejecución,3519797.2,39181,Bajo
+PRJ-2026031,2023-06-10,Andina,Bogotá D.C.,Infraestructura,Retrasado,469946.68,27062,Bajo
+PRJ-2026032,2024-04-04,Amazonía,Amazonas,Energía,Retrasado,4930705.27,25831,Alto
+PRJ-2026033,2023-11-10,Orinoquía,Casanare,Tecnología,En Ejecución,2814101.04,25389,Alto
+PRJ-2026034,2023-01-22,Caribe,Magdalena,Energía,Finalizado,2369870.18,30455,Bajo
+PRJ-2026035,2023-09-10,Orinoquía,Meta,Educación,Retrasado,1225657.03,604,Medio
+PRJ-2026036,2023-08-24,Orinoquía,Meta,Educación,En Planeación,4817951.57,36495,Medio
+PRJ-2026037,2023-12-11,Amazonía,Amazonas,Medio Ambiente,En Ejecución,4626984.48,11103,Bajo
+PRJ-2026038,2023-02-18,Amazonía,Putumayo,Infraestructura,En Planeación,3165523.26,38513,Medio
+PRJ-2026039,2024-04-19,Andina,Boyacá,Energía,Finalizado,274959.58,13423,Alto
+PRJ-2026040,2023-02-28,Caribe,La Guajira,Energía,Finalizado,1423036.86,46527,Medio
+PRJ-2026041,2023-06-19,Orinoquía,Casanare,Salud,En Ejecución,1833708.22,4935,Medio
+PRJ-2026042,2024-04-20,Pacífica,Chocó,Educación,En Ejecución,3033770.32,31571,Medio
+PRJ-2026043,2023-07-07,Amazonía,Amazonas,Energía,En Ejecución,2112363.34,4904,Alto
+PRJ-2026044,2024-04-08,Andina,Bogotá D.C.,Salud,En Planeación,273832.42,1115,Alto
+PRJ-2026045,2023-09-28,Andina,Antioquia,Salud,En Planeación,2990947.04,4258,Bajo
+PRJ-2026046,2023-07-09,Andina,Cundinamarca,Infraestructura,Finalizado,232268.24,8802,Bajo
+PRJ-2026047,2024-03-21,Andina,Boyacá,Energía,Finalizado,3762058.21,15206,Medio
+PRJ-2026048,2023-06-24,Amazonía,Putumayo,Medio Ambiente,Retrasado,1920360.22,48312,Alto
+PRJ-2026049,2024-03-21,Andina,Antioquia,Infraestructura,En Ejecución,4397192.3,45643,Medio
+PRJ-2026050,2023-02-20,Caribe,La Guajira,Salud,Finalizado,20826444.38,32149,Medio
+PRJ-2026051,2023-12-30,Orinoquía,Meta,Energía,En Planeación,3969498.31,23028,Bajo
+PRJ-2026052,2023-02-24,Amazonía,Amazonas,Energía,Retrasado,725038.8,13151,Medio
+PRJ-2026053,2023-09-01,Caribe,Atlántico,Salud,Finalizado,2215500.86,10309,Medio
+PRJ-2026054,2023-11-16,Orinoquía,Meta,Energía,Finalizado,1524899.29,43188,Alto
+PRJ-2026055,2023-05-11,Amazonía,Amazonas,Tecnología,Finalizado,3856142.82,37032,Alto
+PRJ-2026056,2024-04-29,Caribe,Atlántico,Medio Ambiente,En Ejecución,2919267.18,45102,Medio
+PRJ-2026057,2023-11-03,Pacífica,Cauca,Educación,Finalizado,2031487.42,22515,Medio
+PRJ-2026058,2023-05-15,Orinoquía,Meta,Infraestructura,En Planeación,4866896.23,28832,Medio
+PRJ-2026059,2023-01-21,Caribe,Magdalena,Infraestructura,Retrasado,1770715.11,23161,Medio
+PRJ-2026060,2023-11-25,Amazonía,Caquetá,Educación,Finalizado,4476375.45,43028,Medio
+PRJ-2026061,2023-06-16,Caribe,Bolívar,Infraestructura,En Ejecución,3158106.93,10578,Alto
+PRJ-2026062,2023-10-01,Pacífica,Cauca,Medio Ambiente,En Ejecución,468359.19,14278,Alto
+PRJ-2026063,2024-01-23,Amazonía,Putumayo,Energía,En Ejecución,2679765.48,48613,Alto
+PRJ-2026064,2023-03-30,Amazonía,Caquetá,Energía,En Ejecución,3451469.25,17402,Bajo
+PRJ-2026065,2023-11-12,Pacífica,Cauca,Tecnología,En Ejecución,2686455.47,35954,Medio
+PRJ-2026066,2023-01-14,Andina,Boyacá,Tecnología,En Ejecución,1096667.63,49377,Medio
+PRJ-2026067,2023-08-30,Orinoquía,Meta,Educación,En Ejecución,1807766.3,16716,Medio
+PRJ-2026068,2023-09-22,Amazonía,Caquetá,Tecnología,Finalizado,3739925.4,15828,Medio
+PRJ-2026069,2023-12-12,Orinoquía,Arauca,Salud,En Ejecución,3247290.34,34629,Medio
+PRJ-2026070,2023-02-22,Pacífica,Nariño,Infraestructura,En Planeación,1224272.62,27385,Medio
+PRJ-2026071,2024-01-21,Amazonía,Caquetá,Energía,En Ejecución,973506.77,10689,Bajo
+PRJ-2026072,2023-12-06,Andina,Cundinamarca,Infraestructura,En Ejecución,4986414.9,16489,Medio
+PRJ-2026073,2023-04-02,Caribe,La Guajira,Tecnología,En Planeación,4876582.46,46785,Bajo
+PRJ-2026074,2024-01-02,Pacífica,Chocó,Educación,Retrasado,2409266.45,22800,Medio
+PRJ-2026075,2024-03-19,Orinoquía,Meta,Energía,En Planeación,1037559.29,45687,Alto
+PRJ-2026076,2024-03-30,Andina,Santander,Educación,Finalizado,2927129.2,20718,Medio
+PRJ-2026077,2024-03-03,Orinoquía,Meta,Infraestructura,Finalizado,2298626.46,16744,Medio
+PRJ-2026078,2023-09-21,Caribe,La Guajira,Salud,En Ejecución,1310471.24,43436,Alto
+PRJ-2026079,2024-03-06,Andina,Antioquia,Infraestructura,Finalizado,3981732.78,42178,Medio
+PRJ-2026080,2023-02-04,Andina,Boyacá,Energía,Retrasado,4668043.43,36398,Medio
+PRJ-2026081,2023-07-25,Andina,Bogotá D.C.,Tecnología,En Ejecución,3621902.93,6051,Alto
+PRJ-2026082,2023-03-22,Amazonía,Putumayo,Educación,Retrasado,4134406.75,15624,Alto
+PRJ-2026083,2024-02-24,Amazonía,Putumayo,Infraestructura,Finalizado,1615173.08,17549,Alto
+PRJ-2026084,2023-02-19,Andina,Bogotá D.C.,Energía,En Planeación,2721916.26,37538,Medio
+PRJ-2026085,2023-12-26,Andina,Antioquia,Educación,En Planeación,2740586.66,36555,Medio
+PRJ-2026086,2024-01-23,Pacífica,Cauca,Infraestructura,Finalizado,3666218.23,31373,Medio
+PRJ-2026087,2023-01-02,Orinoquía,Arauca,Medio Ambiente,Finalizado,2887096.7,10889,Alto
+PRJ-2026088,2024-01-25,Andina,Antioquia,Medio Ambiente,En Ejecución,215985.55,19129,Alto
+PRJ-2026089,2023-02-23,Caribe,Atlántico,Medio Ambiente,En Planeación,4115223.66,23810,Medio
+PRJ-2026090,2023-04-16,Orinoquía,Meta,Tecnología,En Ejecución,792091.27,14482,Alto
+PRJ-2026091,2023-09-17,Orinoquía,Meta,Salud,En Ejecución,2849266.32,33661,Medio
+PRJ-2026092,2023-11-06,Pacífica,Cauca,Medio Ambiente,Retrasado,1745495.07,44265,Alto
+PRJ-2026093,2024-04-21,Caribe,Atlántico,Infraestructura,En Ejecución,2554148.96,17468,Medio
+PRJ-2026094,2023-07-10,Andina,Santander,Infraestructura,En Planeación,3498421.58,38827,Medio
+PRJ-2026095,2024-02-06,Caribe,Bolívar,Tecnología,En Ejecución,432739.27,44427,Bajo
+PRJ-2026096,2023-08-06,Andina,Cundinamarca,Educación,En Ejecución,4202545.53,19356,Alto
+PRJ-2026097,2023-02-13,Andina,Cundinamarca,Medio Ambiente,En Ejecución,1067620.05,39324,Alto
+PRJ-2026098,2023-06-11,Amazonía,Caquetá,Educación,En Ejecución,4324414.8,8073,Medio
+PRJ-2026099,2023-07-21,Caribe,Magdalena,Salud,Finalizado,2955987.71,42014,Alto
+PRJ-2026100,2024-03-21,Orinoquía,Arauca,Infraestructura,En Ejecución,4346454.61,20056,Medio
+PRJ-2026101,2024-04-28,Andina,Antioquia,Medio Ambiente,Finalizado,114817.56,38456,Medio
+PRJ-2026102,2023-09-27,Andina,Antioquia,Tecnología,Finalizado,4310128.49,21666,Medio
+PRJ-2026103,2023-12-17,Amazonía,Amazonas,Educación,En Ejecución,2162605.08,33819,Medio
+PRJ-2026104,2023-10-31,Pacífica,Chocó,Energía,En Ejecución,2386731.38,28171,Bajo
+PRJ-2026105,2023-09-28,Pacífica,Chocó,Educación,Retrasado,2645731.83,38100,Medio
+PRJ-2026106,2024-03-31,Caribe,Atlántico,Energía,Retrasado,1705095.92,12442,Bajo
+PRJ-2026107,2024-04-06,Pacífica,Nariño,Salud,En Ejecución,2073234.15,47290,Medio
+PRJ-2026108,2023-08-03,Orinoquía,Casanare,Medio Ambiente,Finalizado,1306748.39,30778,Medio
+PRJ-2026109,2023-09-09,Pacífica,Cauca,Medio Ambiente,Finalizado,2868745.41,40086,Medio
+PRJ-2026110,2023-07-09,Andina,Santander,Salud,Retrasado,3035827.14,48017,Alto
+PRJ-2026111,2023-10-23,Pacífica,Nariño,Tecnología,En Planeación,2061641.93,922,Bajo
+PRJ-2026112,2023-08-01,Caribe,Magdalena,Salud,En Ejecución,181334.41,36320,Medio
+PRJ-2026113,2023-07-27,Pacífica,Nariño,Medio Ambiente,Finalizado,4096345.63,22519,Alto
+PRJ-2026114,2023-08-25,Pacífica,Chocó,Salud,En Ejecución,4161739.81,33672,Bajo
+PRJ-2026115,2023-12-04,Andina,Bogotá D.C.,Medio Ambiente,En Ejecución,3829848.68,30075,Alto
+PRJ-2026116,2024-01-02,Andina,Bogotá D.C.,Energía,Finalizado,4009283.52,28629,Alto
+PRJ-2026117,2023-02-22,Pacífica,Valle del Cauca,Energía,Retrasado,2042622.72,23852,Medio
+PRJ-2026118,2023-10-07,Pacífica,Chocó,Tecnología,En Ejecución,3471548.2,9096,Alto
+PRJ-2026119,2024-02-14,Pacífica,Chocó,Salud,Finalizado,2515549.23,26757,Alto
+PRJ-2026120,2023-08-05,Andina,Boyacá,Educación,Finalizado,577564.71,16825,Alto
+PRJ-2026121,2023-09-09,Amazonía,Putumayo,Educación,En Ejecución,1291116.77,46928,Alto
+PRJ-2026122,2023-07-07,Andina,Boyacá,Salud,En Planeación,1946535.71,36497,Medio
+PRJ-2026123,2024-01-15,Caribe,La Guajira,Energía,Retrasado,3035602.94,13181,Bajo
+PRJ-2026124,2024-05-07,Amazonía,Amazonas,Infraestructura,En Ejecución,3609277.23,11146,Medio
+PRJ-2026125,2023-02-10,Pacífica,Chocó,Salud,En Ejecución,718256.32,23963,Alto
+PRJ-2026126,2023-06-06,Andina,Bogotá D.C.,Tecnología,Finalizado,4215571.82,12212,Bajo
+PRJ-2026127,2023-01-15,Pacífica,Valle del Cauca,Infraestructura,En Ejecución,577661.35,15148,Alto
+PRJ-2026128,2023-10-28,Andina,Antioquia,Educación,Retrasado,2325423.49,24454,Medio
+PRJ-2026129,2023-03-06,Pacífica,Chocó,Medio Ambiente,En Ejecución,76006.4,23151,Alto
+PRJ-2026130,2023-12-11,Pacífica,Valle del Cauca,Tecnología,Retrasado,3960567.12,36508,Alto
+PRJ-2026131,2023-11-23,Andina,Santander,Energía,En Planeación,3212799.46,11444,Alto
+PRJ-2026132,2023-01-09,Amazonía,Caquetá,Energía,En Planeación,3250991.35,25164,Alto
+PRJ-2026133,2023-12-10,Amazonía,Caquetá,Salud,Finalizado,2801242.58,19641,Alto
+PRJ-2026134,2023-05-09,Caribe,Magdalena,Energía,En Ejecución,1003365.19,8107,Alto
+PRJ-2026135,2024-05-06,Caribe,Magdalena,Medio Ambiente,Finalizado,4230519.52,37365,Alto
+PRJ-2026136,2023-05-16,Pacífica,Chocó,Educación,Finalizado,2825352.11,13509,Medio
+PRJ-2026137,2024-04-16,Pacífica,Valle del Cauca,Infraestructura,En Ejecución,373513.89,28635,Alto
+PRJ-2026138,2023-03-04,Andina,Santander,Medio Ambiente,Finalizado,2624832.14,13837,Alto
+PRJ-2026139,2023-05-19,Orinoquía,Casanare,Salud,En Ejecución,155283.58,29530,Alto
+PRJ-2026140,2024-05-13,Amazonía,Amazonas,Salud,En Planeación,4989773.85,16471,Alto
+PRJ-2026141,2023-03-22,Amazonía,Caquetá,Educación,Finalizado,3156152.04,19995,Medio
+PRJ-2026142,2024-01-27,Orinoquía,Arauca,Educación,Retrasado,2135717.16,12776,Medio
+PRJ-2026143,2023-06-12,Andina,Antioquia,Infraestructura,Finalizado,4271468.02,33013,Medio
+PRJ-2026144,2024-02-23,Amazonía,Amazonas,Educación,En Planeación,591864.61,23995,Bajo
+PRJ-2026145,2023-10-16,Orinoquía,Arauca,Salud,Retrasado,2963343.43,906,Medio
+PRJ-2026146,2024-01-14,Pacífica,Chocó,Medio Ambiente,En Planeación,371682.73,49088,Alto
+PRJ-2026147,2023-09-18,Amazonía,Putumayo,Medio Ambiente,En Ejecución,1951248.53,17420,Bajo
+PRJ-2026148,2024-05-04,Andina,Bogotá D.C.,Infraestructura,Retrasado,3167400.72,826,Alto
+PRJ-2026149,2023-08-19,Andina,Antioquia,Infraestructura,Finalizado,1338155.17,18950,Medio
+PRJ-2026150,2023-02-10,Caribe,Atlántico,Energía,En Planeación,11718673.52,7387,Alto
+PRJ-2026151,2023-01-28,Amazonía,Putumayo,Educación,Finalizado,502859.85,18124,Medio
+PRJ-2026152,2023-05-15,Pacífica,Cauca,Tecnología,Finalizado,4268357.99,28941,Bajo
+PRJ-2026153,2023-07-20,Andina,Antioquia,Medio Ambiente,Retrasado,1300613.02,4233,Medio
+PRJ-2026154,2023-11-24,Pacífica,Valle del Cauca,Salud,Finalizado,591870.86,41855,Alto
+PRJ-2026155,2023-09-25,Amazonía,Amazonas,Educación,En Ejecución,2604591.15,18646,Alto
+PRJ-2026156,2024-02-22,Caribe,Magdalena,Salud,Finalizado,3682854.1,20795,Alto
+PRJ-2026157,2023-02-02,Pacífica,Nariño,Tecnología,En Planeación,3556396.73,33230,Alto
+PRJ-2026158,2023-02-17,Amazonía,Amazonas,Medio Ambiente,Finalizado,3775947.37,22634,Medio
+PRJ-2026159,2024-02-11,Amazonía,Putumayo,Medio Ambiente,En Planeación,4137792.92,40429,Bajo
+PRJ-2026160,2023-03-03,Pacífica,Valle del Cauca,Energía,En Planeación,2803099.59,26688,Bajo
+PRJ-2026161,2023-08-04,Orinoquía,Arauca,Salud,En Ejecución,4906871.58,34932,Medio
+PRJ-2026162,2023-10-20,Caribe,La Guajira,Medio Ambiente,Retrasado,3817088.12,29357,Bajo
+PRJ-2026163,2023-04-09,Andina,Bogotá D.C.,Tecnología,Finalizado,557423.15,13607,Alto
+PRJ-2026164,2023-06-21,Orinoquía,Casanare,Tecnología,En Ejecución,383385.48,8173,Alto
+PRJ-2026165,2023-12-26,Andina,Bogotá D.C.,Infraestructura,En Planeación,3396458.67,21295,Alto
+PRJ-2026166,2023-08-02,Orinoquía,Arauca,Infraestructura,Finalizado,374849.42,44164,Medio
+PRJ-2026167,2024-04-19,Pacífica,Cauca,Salud,En Ejecución,2369270.11,14388,Bajo
+PRJ-2026168,2023-02-04,Pacífica,Valle del Cauca,Educación,En Ejecución,3483727.02,23511,Alto
+PRJ-2026169,2024-03-24,Caribe,Magdalena,Energía,En Ejecución,4346868.9,44513,Bajo
+PRJ-2026170,2023-08-15,Orinoquía,Meta,Medio Ambiente,En Planeación,4824376.34,34550,Alto
+PRJ-2026171,2023-04-11,Andina,Boyacá,Infraestructura,En Ejecución,3635892.23,11525,Medio
+PRJ-2026172,2024-03-06,Amazonía,Putumayo,Educación,Finalizado,4328573.34,18739,Medio
+PRJ-2026173,2024-04-06,Pacífica,Nariño,Tecnología,En Ejecución,3894154.42,8882,Alto
+PRJ-2026174,2023-05-11,Pacífica,Chocó,Salud,Retrasado,699662.14,41752,Medio
+PRJ-2026175,2023-09-14,Orinoquía,Casanare,Infraestructura,En Ejecución,56097.58,11636,Medio
+PRJ-2026176,2023-01-05,Orinoquía,Meta,Energía,En Ejecución,3275021.36,49368,Bajo
+PRJ-2026177,2023-08-06,Caribe,La Guajira,Infraestructura,En Planeación,2349763.05,26689,Bajo
+PRJ-2026178,2023-09-12,Caribe,Atlántico,Energía,En Ejecución,4307605.87,20681,Medio
+PRJ-2026179,2024-02-02,Andina,Cundinamarca,Energía,Retrasado,558822.4,38659,Bajo
+PRJ-2026180,2023-12-25,Orinoquía,Meta,Salud,Retrasado,408460.55,6468,Alto
+PRJ-2026181,2023-10-10,Andina,Antioquia,Medio Ambiente,En Ejecución,1821116.69,43301,Alto
+PRJ-2026182,2024-01-28,Caribe,Atlántico,Salud,Retrasado,879038.78,6190,Medio
+PRJ-2026183,2023-07-26,Amazonía,Putumayo,Infraestructura,En Ejecución,307257.85,26115,Alto
+PRJ-2026184,2023-01-15,Andina,Bogotá D.C.,Tecnología,En Planeación,4018554.01,13729,Alto
+PRJ-2026185,2023-12-12,Pacífica,Cauca,Infraestructura,En Planeación,4095623.96,8701,Medio
+PRJ-2026186,2023-02-11,Pacífica,Cauca,Educación,En Ejecución,3637891.47,7279,Medio
+PRJ-2026187,2024-01-15,Orinoquía,Meta,Educación,En Planeación,4880533.02,4880,Medio
+PRJ-2026188,2024-04-05,Amazonía,Putumayo,Medio Ambiente,Finalizado,2799049.58,39925,Medio
+PRJ-2026189,2023-06-28,Pacífica,Chocó,Medio Ambiente,En Planeación,3269112.15,14125,Alto
+PRJ-2026190,2023-03-04,Pacífica,Cauca,Medio Ambiente,En Ejecución,1325530.3,30127,Bajo
+PRJ-2026191,2023-12-18,Andina,Boyacá,Salud,Retrasado,1762378.21,26063,Medio
+PRJ-2026192,2023-08-19,Orinoquía,Casanare,Educación,Finalizado,195502.51,31685,Medio
+PRJ-2026193,2023-08-29,Orinoquía,Casanare,Salud,Retrasado,4961059.92,45341,Medio
+PRJ-2026194,2023-02-21,Amazonía,Putumayo,Medio Ambiente,Finalizado,1217170.87,20075,Alto
+PRJ-2026195,2023-04-06,Orinoquía,Casanare,Salud,En Ejecución,945835.92,45065,Alto
+PRJ-2026196,2024-01-23,Amazonía,Amazonas,Energía,En Ejecución,2984946.08,35146,Medio
+PRJ-2026197,2023-08-10,Andina,Santander,Salud,En Ejecución,1595132.88,2213,Medio
+PRJ-2026198,2024-04-29,Pacífica,Valle del Cauca,Medio Ambiente,En Ejecución,697824.62,12688,Alto
+PRJ-2026199,2024-02-11,Pacífica,Chocó,Infraestructura,Finalizado,2271448.99,11183,Medio
+PRJ-2026200,2023-08-19,Andina,Antioquia,Medio Ambiente,En Ejecución,17742736.12,17059,Medio
+PRJ-2026201,2023-08-25,Orinoquía,Meta,Infraestructura,Retrasado,2399422.83,36436,Medio
+PRJ-2026202,2023-05-23,Orinoquía,Arauca,Energía,En Ejecución,1385260.58,16101,Bajo
+PRJ-2026203,2023-06-20,Andina,Boyacá,Tecnología,En Ejecución,1162270.83,10824,Medio
+PRJ-2026204,2023-01-29,Amazonía,Putumayo,Medio Ambiente,En Ejecución,3456628.94,41335,Medio
+PRJ-2026205,2023-02-05,Amazonía,Caquetá,Infraestructura,En Ejecución,3213643.69,15498,Alto
+PRJ-2026206,2023-01-13,Pacífica,Chocó,Tecnología,Finalizado,706937.54,12695,Bajo
+PRJ-2026207,2023-06-09,Caribe,Atlántico,Tecnología,Finalizado,514808.54,42859,Alto
+PRJ-2026208,2023-11-23,Amazonía,Caquetá,Medio Ambiente,En Planeación,3325080.13,38106,Medio
+PRJ-2026209,2023-07-06,Caribe,Magdalena,Salud,En Ejecución,4162842.1,402,Medio
+PRJ-2026210,2023-08-31,Andina,Santander,Infraestructura,En Planeación,3398741.26,31990,Medio
+PRJ-2026211,2023-03-27,Amazonía,Amazonas,Educación,En Ejecución,4997097.94,41001,Medio
+PRJ-2026212,2023-10-11,Andina,Antioquia,Educación,En Planeación,497884.39,19714,Alto
+PRJ-2026213,2023-03-07,Andina,Cundinamarca,Tecnología,Finalizado,4632090.41,4214,Alto
+PRJ-2026214,2023-06-19,Caribe,Atlántico,Medio Ambiente,Retrasado,4098279.37,1467,Medio
+PRJ-2026215,2023-02-14,Andina,Boyacá,Educación,En Ejecución,3492562.67,35743,Medio
+PRJ-2026216,2023-03-03,Amazonía,Amazonas,Educación,En Ejecución,1174984.65,44398,Medio
+PRJ-2026217,2024-03-16,Pacífica,Nariño,Energía,Finalizado,2527204.28,22712,Alto
+PRJ-2026218,2023-05-14,Caribe,La Guajira,Salud,Finalizado,1739176.75,32879,Bajo
+PRJ-2026219,2023-10-11,Amazonía,Caquetá,Medio Ambiente,En Ejecución,2002108.35,27066,Medio
+PRJ-2026220,2023-01-28,Caribe,La Guajira,Infraestructura,Finalizado,2182767.35,4531,Alto
+PRJ-2026221,2023-04-18,Amazonía,Putumayo,Educación,Finalizado,1025912.93,49392,Medio
+PRJ-2026222,2023-02-13,Pacífica,Chocó,Energía,Finalizado,1460120.86,36478,Medio
+PRJ-2026223,2023-12-06,Amazonía,Putumayo,Tecnología,Finalizado,3071152.23,42741,Medio
+PRJ-2026224,2023-10-13,Caribe,Bolívar,Medio Ambiente,Finalizado,946689.28,48578,Bajo
+PRJ-2026225,2024-03-21,Orinoquía,Casanare,Medio Ambiente,En Ejecución,3977365.93,8736,Medio
+PRJ-2026226,2023-11-27,Caribe,La Guajira,Tecnología,Finalizado,4087955.79,21775,Bajo
+PRJ-2026227,2023-05-08,Amazonía,Caquetá,Infraestructura,En Ejecución,2600117.09,9535,Medio
+PRJ-2026228,2023-12-14,Andina,Bogotá D.C.,Educación,Finalizado,1835823.97,31501,Bajo
+PRJ-2026229,2024-04-17,Andina,Bogotá D.C.,Infraestructura,Retrasado,4121940.88,7327,Medio
+PRJ-2026230,2023-08-19,Caribe,Bolívar,Salud,Retrasado,2148526.82,26260,Bajo
+PRJ-2026231,2023-07-09,Pacífica,Nariño,Salud,Finalizado,933307.53,2952,Medio
+PRJ-2026232,2023-08-13,Pacífica,Nariño,Infraestructura,En Ejecución,2992657.86,7521,Medio
+PRJ-2026233,2024-01-20,Andina,Bogotá D.C.,Infraestructura,Finalizado,2241448.99,23264,Medio
+PRJ-2026234,2024-01-12,Andina,Antioquia,Infraestructura,En Planeación,565342.76,17725,Bajo
+PRJ-2026235,2023-10-10,Caribe,La Guajira,Medio Ambiente,En Ejecución,4476244.83,14310,Bajo
+PRJ-2026236,2024-03-21,Andina,Antioquia,Infraestructura,En Ejecución,2239929.19,3813,Medio
+PRJ-2026237,2023-05-01,Orinoquía,Meta,Tecnología,En Ejecución,4406391.48,8358,Medio
+PRJ-2026238,2023-04-26,Orinoquía,Meta,Salud,En Ejecución,4970989.84,19301,Medio
+PRJ-2026239,2024-04-05,Andina,Cundinamarca,Salud,Finalizado,2923351.28,30237,Medio
+PRJ-2026240,2023-08-21,Orinoquía,Meta,Medio Ambiente,Finalizado,893865.79,35533,Alto
+PRJ-2026241,2023-09-16,Andina,Santander,Educación,En Ejecución,2400688.39,16001,Alto
+PRJ-2026242,2023-12-25,Amazonía,Putumayo,Tecnología,En Planeación,3699042.11,41423,Bajo
+PRJ-2026243,2023-07-17,Andina,Antioquia,Energía,Finalizado,491165.94,26442,Medio
+PRJ-2026244,2024-03-31,Andina,Boyacá,Tecnología,Retrasado,228993.88,5882,Alto
+PRJ-2026245,2024-02-15,Caribe,Bolívar,Salud,En Ejecución,1233323.89,18980,Medio
+PRJ-2026246,2023-05-17,Pacífica,Cauca,Tecnología,En Ejecución,4373016.48,24937,Alto
+PRJ-2026247,2023-11-14,Pacífica,Chocó,Infraestructura,Finalizado,1985661.68,36975,Medio
+PRJ-2026248,2023-06-14,Andina,Bogotá D.C.,Energía,Retrasado,4395972.89,7729,Medio
+PRJ-2026249,2023-08-13,Pacífica,Nariño,Tecnología,Retrasado,163324.43,20709,Medio
+PRJ-2026250,2023-11-03,Pacífica,Chocó,Energía,En Planeación,20606393.95,9084,Medio
+PRJ-2026251,2023-08-22,Amazonía,Caquetá,Educación,En Planeación,3050952.04,37785,Medio
+PRJ-2026252,2023-06-21,Amazonía,Putumayo,Infraestructura,En Ejecución,1869295.39,48619,Bajo
+PRJ-2026253,2023-06-01,Amazonía,Caquetá,Tecnología,En Ejecución,2770171.2,8067,Alto
+PRJ-2026254,2024-04-07,Orinoquía,Meta,Energía,En Planeación,4264670.76,18368,Medio
+PRJ-2026255,2023-11-11,Pacífica,Chocó,Salud,Finalizado,353680.65,43013,Bajo
+PRJ-2026256,2024-01-09,Caribe,Bolívar,Salud,Finalizado,3116513.87,30258,Alto
+PRJ-2026257,2023-06-09,Andina,Cundinamarca,Educación,En Ejecución,1551211.98,9174,Bajo
+PRJ-2026258,2023-04-06,Orinoquía,Meta,Tecnología,Finalizado,1201595.42,34271,Medio
+PRJ-2026259,2024-04-16,Orinoquía,Meta,Tecnología,Finalizado,3635371.47,42568,Alto
+PRJ-2026260,2023-08-21,Orinoquía,Arauca,Energía,Finalizado,2651247.88,27705,Medio
+PRJ-2026261,2023-06-29,Amazonía,Amazonas,Energía,En Planeación,712328.49,6648,Medio
+PRJ-2026262,2023-04-23,Amazonía,Caquetá,Salud,En Ejecución,1651326.95,24917,Medio
+PRJ-2026263,2023-11-14,Amazonía,Amazonas,Medio Ambiente,Retrasado,2464877.52,44102,Alto
+PRJ-2026264,2024-05-11,Andina,Santander,Infraestructura,Finalizado,535508.77,24445,Alto
+PRJ-2026265,2024-03-17,Orinoquía,Casanare,Tecnología,En Ejecución,4062895.34,28480,Medio
+PRJ-2026266,2023-02-21,Orinoquía,Meta,Energía,En Ejecución,709067.77,31011,Alto
+PRJ-2026267,2023-09-25,Andina,Antioquia,Educación,Finalizado,1310619.58,23661,Medio
+PRJ-2026268,2023-10-22,Caribe,Atlántico,Tecnología,Retrasado,2502487.91,28702,Alto
+PRJ-2026269,2024-01-21,Andina,Antioquia,Tecnología,Finalizado,573182.73,39951,Alto
+PRJ-2026270,2024-01-22,Andina,Boyacá,Medio Ambiente,En Ejecución,3312225.89,28182,Alto
+PRJ-2026271,2023-04-23,Pacífica,Nariño,Educación,En Planeación,1798594.47,49617,Alto
+PRJ-2026272,2023-04-11,Orinoquía,Arauca,Tecnología,Retrasado,966718.06,28238,Medio
+PRJ-2026273,2023-04-23,Caribe,Bolívar,Medio Ambiente,Finalizado,1361979.82,42633,Alto
+PRJ-2026274,2024-03-15,Orinoquía,Meta,Educación,En Planeación,101617.11,32225,Medio
+PRJ-2026275,2023-03-22,Orinoquía,Casanare,Educación,Finalizado,257658.56,46957,Medio
+PRJ-2026276,2023-07-06,Amazonía,Putumayo,Salud,Finalizado,3752962.24,9603,Medio
+PRJ-2026277,2023-04-23,Orinoquía,Casanare,Infraestructura,En Ejecución,3012731.3,45100,Bajo
+PRJ-2026278,2023-01-02,Andina,Cundinamarca,Energía,Finalizado,4718225.4,2561,Medio
+PRJ-2026279,2023-05-10,Orinoquía,Meta,Tecnología,En Ejecución,3246763.52,12358,Alto
+PRJ-2026280,2023-08-08,Caribe,La Guajira,Energía,En Planeación,4598686.34,35064,Alto
+PRJ-2026281,2023-02-23,Amazonía,Caquetá,Medio Ambiente,En Planeación,2811175.47,29434,Alto
+PRJ-2026282,2023-12-09,Orinoquía,Arauca,Energía,Retrasado,2720803.29,49008,Medio
+PRJ-2026283,2024-04-29,Caribe,Atlántico,Medio Ambiente,Finalizado,4827392.22,26162,Bajo
+PRJ-2026284,2023-08-12,Pacífica,Cauca,Tecnología,Retrasado,2972221.07,8806,Medio
+PRJ-2026285,2023-08-13,Pacífica,Cauca,Medio Ambiente,En Ejecución,4391835.29,36168,Medio
+PRJ-2026286,2024-01-20,Caribe,Atlántico,Educación,Retrasado,1425615.38,21827,Alto
+PRJ-2026287,2024-02-07,Caribe,Atlántico,Infraestructura,En Ejecución,4084836.0,14142,Alto
+PRJ-2026288,2023-05-06,Pacífica,Chocó,Educación,En Ejecución,2644587.9,43341,Medio
+PRJ-2026289,2023-05-10,Caribe,Atlántico,Energía,Retrasado,3760250.15,40472,Bajo
+PRJ-2026290,2023-02-22,Andina,Santander,Infraestructura,Retrasado,2378079.32,23862,Alto
+PRJ-2026291,2023-06-21,Amazonía,Caquetá,Tecnología,En Ejecución,3912978.89,1113,Medio
+PRJ-2026292,2023-08-06,Pacífica,Chocó,Medio Ambiente,Finalizado,932944.29,14637,Bajo
+PRJ-2026293,2023-06-09,Orinoquía,Meta,Medio Ambiente,En Ejecución,2430815.8,29297,Medio
+PRJ-2026294,2023-07-17,Pacífica,Nariño,Medio Ambiente,Finalizado,2825267.47,11105,Medio
+PRJ-2026295,2024-02-20,Caribe,Atlántico,Salud,Finalizado,1644434.62,3490,Bajo
+PRJ-2026296,2023-09-04,Pacífica,Chocó,Medio Ambiente,Retrasado,1088717.87,48931,Alto
+PRJ-2026297,2023-11-20,Pacífica,Nariño,Medio Ambiente,En Ejecución,2198395.86,34037,Medio
+PRJ-2026298,2024-03-14,Orinoquía,Meta,Infraestructura,Retrasado,3681398.36,21721,Alto
+PRJ-2026299,2023-07-22,Amazonía,Amazonas,Educación,Finalizado,932349.71,34601,Medio
+PRJ-2026300,2023-07-03,Orinoquía,Arauca,Educación,En Planeación,14247361.63,8429,Medio
+PRJ-2026301,2023-05-03,Caribe,Magdalena,Medio Ambiente,Retrasado,2953071.51,35625,Medio
+PRJ-2026302,2024-02-05,Andina,Cundinamarca,Medio Ambiente,Retrasado,4271003.7,5117,Bajo
+PRJ-2026303,2023-09-12,Pacífica,Valle del Cauca,Medio Ambiente,Finalizado,2204142.98,25379,Medio
+PRJ-2026304,2023-10-21,Amazonía,Caquetá,Salud,En Ejecución,2507482.7,29412,Alto
+PRJ-2026305,2023-10-07,Andina,Santander,Energía,En Ejecución,700179.57,7836,Medio
+PRJ-2026306,2023-11-21,Orinoquía,Meta,Tecnología,En Ejecución,270744.8,9657,Medio
+PRJ-2026307,2024-01-07,Orinoquía,Arauca,Infraestructura,En Ejecución,4875431.53,28147,Alto
+PRJ-2026308,2023-04-08,Caribe,Bolívar,Medio Ambiente,En Ejecución,4272793.64,30414,Bajo
+PRJ-2026309,2023-07-17,Orinoquía,Casanare,Salud,Finalizado,1610188.13,30782,Medio
+PRJ-2026310,2024-04-14,Caribe,La Guajira,Infraestructura,En Planeación,4687271.19,12029,Medio
+PRJ-2026311,2024-01-30,Orinoquía,Casanare,Educación,Finalizado,767577.11,34621,Alto
+PRJ-2026312,2023-08-28,Amazonía,Amazonas,Infraestructura,En Ejecución,4838413.08,6688,Alto
+PRJ-2026313,2023-05-24,Andina,Antioquia,Salud,Retrasado,489759.21,33465,Medio
+PRJ-2026314,2023-04-07,Andina,Antioquia,Medio Ambiente,En Ejecución,2735601.73,44729,Medio
+PRJ-2026315,2023-07-20,Andina,Antioquia,Salud,En Ejecución,2449246.62,13240,Medio
+PRJ-2026316,2023-05-04,Amazonía,Caquetá,Energía,Retrasado,2338363.03,30675,Medio
+PRJ-2026317,2023-07-06,Pacífica,Valle del Cauca,Energía,En Ejecución,604082.84,4766,Alto
+PRJ-2026318,2023-11-22,Caribe,Magdalena,Infraestructura,Retrasado,1330173.13,12919,Medio
+PRJ-2026319,2024-04-08,Caribe,Magdalena,Tecnología,Retrasado,1064162.31,31032,Medio
+PRJ-2026320,2023-12-15,Orinoquía,Casanare,Infraestructura,En Planeación,3766111.06,29218,Medio
+PRJ-2026321,2023-09-16,Caribe,Bolívar,Energía,En Ejecución,1984105.41,18758,Medio
+PRJ-2026322,2023-05-28,Orinoquía,Arauca,Educación,En Ejecución,2233307.18,29550,Bajo
+PRJ-2026323,2023-09-09,Orinoquía,Casanare,Tecnología,Retrasado,3191182.97,6810,Medio
+PRJ-2026324,2024-03-18,Andina,Bogotá D.C.,Salud,Finalizado,871869.85,37811,Medio
+PRJ-2026325,2024-02-24,Pacífica,Valle del Cauca,Infraestructura,En Planeación,2559902.96,19684,Bajo
+PRJ-2026326,2024-02-07,Amazonía,Putumayo,Medio Ambiente,Finalizado,463147.22,2691,Medio
+PRJ-2026327,2023-12-12,Andina,Santander,Infraestructura,Finalizado,2117916.85,42970,Alto
+PRJ-2026328,2024-03-26,Amazonía,Amazonas,Energía,Finalizado,4415542.4,26270,Bajo
+PRJ-2026329,2023-05-27,Pacífica,Valle del Cauca,Educación,En Ejecución,4123644.31,24317,Bajo
+PRJ-2026330,2023-05-28,Amazonía,Putumayo,Medio Ambiente,En Ejecución,4595129.6,745,Medio
+PRJ-2026331,2023-12-18,Pacífica,Nariño,Tecnología,En Planeación,3275756.2,18988,Alto
+PRJ-2026332,2023-07-18,Amazonía,Caquetá,Energía,Retrasado,910119.89,36216,Medio
+PRJ-2026333,2023-11-04,Orinoquía,Casanare,Energía,Retrasado,4531531.38,6550,Medio
+PRJ-2026334,2024-05-03,Caribe,Atlántico,Infraestructura,Finalizado,1794255.99,7080,Medio
+PRJ-2026335,2024-02-21,Orinoquía,Arauca,Energía,En Planeación,675010.47,22533,Medio
+PRJ-2026336,2024-02-28,Caribe,Magdalena,Tecnología,Finalizado,3293647.93,21547,Bajo
+PRJ-2026337,2023-05-08,Pacífica,Nariño,Salud,Finalizado,1102589.66,6470,Medio
+PRJ-2026338,2023-02-08,Andina,Boyacá,Medio Ambiente,Finalizado,4362462.19,33260,Alto
+PRJ-2026339,2023-12-04,Pacífica,Nariño,Medio Ambiente,En Planeación,4377422.28,22846,Medio
+PRJ-2026340,2023-12-26,Pacífica,Cauca,Salud,Finalizado,4329589.87,9131,Medio
+PRJ-2026341,2023-05-09,Pacífica,Cauca,Energía,Retrasado,139100.44,49675,Medio
+PRJ-2026342,2023-09-24,Caribe,Atlántico,Energía,En Planeación,4558312.3,42509,Medio
+PRJ-2026343,2024-04-20,Pacífica,Valle del Cauca,Tecnología,En Ejecución,3647021.41,11102,Alto
+PRJ-2026344,2024-03-16,Orinoquía,Arauca,Educación,En Ejecución,607272.93,34328,Alto
+PRJ-2026345,2024-04-17,Amazonía,Amazonas,Energía,En Ejecución,1454950.81,46833,Medio
+PRJ-2026346,2024-03-09,Pacífica,Valle del Cauca,Infraestructura,En Ejecución,3014101.07,32862,Alto
+PRJ-2026347,2023-05-31,Orinoquía,Casanare,Educación,En Ejecución,4945690.37,5474,Medio
+PRJ-2026348,2024-02-19,Amazonía,Caquetá,Educación,En Ejecución,1375494.54,29265,Medio
+PRJ-2026349,2024-04-22,Caribe,Bolívar,Medio Ambiente,En Ejecución,3014943.62,16388,Alto
+PRJ-2026350,2023-10-25,Amazonía,Amazonas,Educación,En Planeación,20774848.28,49979,Medio
+PRJ-2026351,2023-04-09,Andina,Boyacá,Tecnología,En Planeación,730742.69,45814,Medio
+PRJ-2026352,2023-09-20,Caribe,La Guajira,Medio Ambiente,En Ejecución,2253968.26,12566,Alto
+PRJ-2026353,2023-09-09,Orinoquía,Arauca,Tecnología,En Ejecución,2463951.99,11193,Medio
+PRJ-2026354,2023-05-24,Orinoquía,Casanare,Salud,Finalizado,1381346.78,20489,Alto
+PRJ-2026355,2023-12-12,Andina,Bogotá D.C.,Educación,En Ejecución,4541531.82,46646,Medio
+PRJ-2026356,2023-04-22,Orinoquía,Casanare,Educación,Finalizado,3131472.49,8433,Medio
+PRJ-2026357,2024-05-14,Pacífica,Nariño,Medio Ambiente,Finalizado,2708187.07,43156,Medio
+PRJ-2026358,2023-03-01,Andina,Cundinamarca,Tecnología,En Ejecución,4022799.11,17187,Medio
+PRJ-2026359,2024-01-04,Caribe,Magdalena,Energía,En Planeación,481109.2,4748,Medio
+PRJ-2026360,2023-01-02,Andina,Boyacá,Infraestructura,En Planeación,196857.7,22307,Medio
+PRJ-2026361,2024-01-20,Pacífica,Chocó,Infraestructura,Finalizado,867759.5,44299,Alto
+PRJ-2026362,2023-10-31,Orinoquía,Arauca,Tecnología,En Planeación,1327957.61,6688,Medio
+PRJ-2026363,2023-09-11,Andina,Boyacá,Salud,En Planeación,57747.27,13246,Alto
+PRJ-2026364,2023-05-20,Amazonía,Putumayo,Educación,Finalizado,616713.81,17473,Medio
+PRJ-2026365,2024-03-28,Andina,Santander,Salud,En Ejecución,2770439.1,29908,Medio
+PRJ-2026366,2023-02-06,Andina,Santander,Salud,En Ejecución,2092742.86,36736,Alto
+PRJ-2026367,2023-06-09,Andina,Bogotá D.C.,Salud,En Planeación,2535660.37,4758,Medio
+PRJ-2026368,2023-01-09,Andina,Antioquia,Tecnología,En Ejecución,3717857.19,34496,Medio
+PRJ-2026369,2023-08-21,Pacífica,Nariño,Energía,En Ejecución,2139069.59,2382,Bajo
+PRJ-2026370,2023-04-09,Andina,Boyacá,Salud,En Planeación,1119454.26,39932,Alto
+PRJ-2026371,2023-05-27,Andina,Santander,Medio Ambiente,Finalizado,3381184.78,25050,Medio
+PRJ-2026372,2023-10-31,Andina,Boyacá,Energía,Retrasado,4001982.69,17958,Medio
+PRJ-2026373,2023-07-27,Pacífica,Nariño,Tecnología,En Planeación,1628390.75,47875,Medio
+PRJ-2026374,2023-05-11,Caribe,Magdalena,Educación,En Ejecución,2652772.36,36229,Medio
+PRJ-2026375,2024-02-08,Orinoquía,Meta,Tecnología,En Ejecución,4735889.95,6006,Alto
+PRJ-2026376,2023-06-01,Amazonía,Caquetá,Tecnología,En Ejecución,1960078.79,11838,Bajo
+PRJ-2026377,2023-02-23,Pacífica,Valle del Cauca,Educación,Finalizado,1854738.95,26139,Medio
+PRJ-2026378,2023-04-30,Orinoquía,Casanare,Educación,En Ejecución,4861525.02,7169,Bajo
+PRJ-2026379,2023-06-10,Pacífica,Cauca,Infraestructura,En Ejecución,1083877.15,37326,Bajo
+PRJ-2026380,2024-02-12,Pacífica,Chocó,Infraestructura,En Ejecución,2319688.89,2269,Alto
+PRJ-2026381,2023-04-26,Amazonía,Amazonas,Salud,En Ejecución,2248432.18,885,Medio
+PRJ-2026382,2023-03-16,Orinoquía,Meta,Educación,En Ejecución,800342.25,34804,Medio
+PRJ-2026383,2023-04-23,Amazonía,Caquetá,Tecnología,En Planeación,2684674.78,8656,Medio
+PRJ-2026384,2024-03-31,Amazonía,Putumayo,Infraestructura,En Ejecución,3559617.94,4957,Alto
+PRJ-2026385,2024-02-24,Andina,Boyacá,Energía,Finalizado,4161908.13,9814,Medio
+PRJ-2026386,2024-02-26,Andina,Santander,Medio Ambiente,Finalizado,2470044.27,39520,Medio
+PRJ-2026387,2023-04-14,Andina,Cundinamarca,Tecnología,En Ejecución,3972980.89,19318,Medio
+PRJ-2026388,2023-12-06,Amazonía,Putumayo,Medio Ambiente,En Ejecución,3568879.35,26585,Alto
+PRJ-2026389,2023-09-11,Pacífica,Cauca,Infraestructura,En Planeación,2690263.81,19695,Alto
+PRJ-2026390,2023-08-15,Amazonía,Caquetá,Infraestructura,Finalizado,3419741.67,2060,Bajo
+PRJ-2026391,2023-04-22,Caribe,La Guajira,Energía,En Ejecución,4905887.52,38735,Medio
+PRJ-2026392,2024-04-17,Orinoquía,Casanare,Salud,Finalizado,2835422.91,2554,Medio
+PRJ-2026393,2023-04-09,Pacífica,Cauca,Educación,En Ejecución,4477540.16,3902,Alto
+PRJ-2026394,2023-06-02,Caribe,La Guajira,Infraestructura,Finalizado,4042617.24,19603,Medio
+PRJ-2026395,2023-12-15,Andina,Santander,Medio Ambiente,Finalizado,4470796.52,14582,Alto
+PRJ-2026396,2024-02-06,Pacífica,Cauca,Medio Ambiente,Finalizado,4635593.9,34005,Medio
+PRJ-2026397,2024-01-19,Amazonía,Caquetá,Infraestructura,En Planeación,3181093.34,376,Medio
+PRJ-2026398,2024-01-01,Orinoquía,Casanare,Educación,En Ejecución,4789367.69,27910,Medio
+PRJ-2026399,2023-12-04,Pacífica,Chocó,Salud,Retrasado,120860.62,1188,Medio
+PRJ-2026400,2023-07-13,Orinoquía,Meta,Medio Ambiente,Retrasado,18897341.08,8168,Bajo
+PRJ-2026401,2023-11-06,Orinoquía,Meta,Educación,Retrasado,488593.33,11628,Medio
+PRJ-2026402,2023-06-12,Caribe,Atlántico,Energía,Finalizado,376748.73,19910,Medio
+PRJ-2026403,2023-07-27,Pacífica,Chocó,Tecnología,Finalizado,80139.3,18614,Medio
+PRJ-2026404,2024-03-20,Pacífica,Chocó,Salud,En Ejecución,3982851.95,40691,Medio
+PRJ-2026405,2023-06-18,Orinoquía,Casanare,Salud,Retrasado,1095006.73,3051,Medio
+PRJ-2026406,2024-04-28,Pacífica,Chocó,Medio Ambiente,Finalizado,2767453.22,22273,Alto
+PRJ-2026407,2023-06-10,Amazonía,Amazonas,Medio Ambiente,En Ejecución,3810076.57,30850,Medio
+PRJ-2026408,2023-03-09,Andina,Bogotá D.C.,Salud,Retrasado,3203599.64,12245,Medio
+PRJ-2026409,2023-10-16,Caribe,La Guajira,Energía,Retrasado,2784879.79,18791,Alto
+PRJ-2026410,2024-02-02,Amazonía,Putumayo,Salud,Finalizado,4415861.24,8027,Bajo
+PRJ-2026411,2023-10-04,Caribe,Magdalena,Infraestructura,En Ejecución,558603.85,23645,Medio
+PRJ-2026412,2023-10-31,Amazonía,Caquetá,Salud,En Ejecución,360313.63,14187,Alto
+PRJ-2026413,2024-02-08,Andina,Boyacá,Tecnología,Retrasado,554367.32,19108,Medio
+PRJ-2026414,2024-01-19,Pacífica,Cauca,Educación,Retrasado,3955215.74,48114,Medio
+PRJ-2026415,2024-01-27,Pacífica,Valle del Cauca,Infraestructura,En Planeación,4822188.16,44552,Medio
+PRJ-2026416,2023-05-15,Andina,Bogotá D.C.,Salud,Finalizado,4229031.08,23578,Alto
+PRJ-2026417,2023-07-14,Caribe,Magdalena,Medio Ambiente,Retrasado,4831935.15,24527,Medio
+PRJ-2026418,2024-02-05,Pacífica,Valle del Cauca,Tecnología,Retrasado,571556.37,39990,Medio
+PRJ-2026419,2023-05-08,Pacífica,Nariño,Medio Ambiente,En Ejecución,4786159.09,19071,Medio
+PRJ-2026420,2023-02-02,Andina,Cundinamarca,Salud,Finalizado,64262.2,38442,Alto
+PRJ-2026421,2023-06-25,Andina,Boyacá,Salud,Finalizado,3612286.39,29420,Medio
+PRJ-2026422,2024-04-04,Andina,Cundinamarca,Energía,En Planeación,3405175.34,42256,Medio
+PRJ-2026423,2024-03-18,Amazonía,Caquetá,Educación,En Ejecución,3706057.42,49231,Medio
+PRJ-2026424,2024-01-06,Orinoquía,Meta,Tecnología,Retrasado,4456564.26,44383,Bajo
+PRJ-2026425,2024-04-14,Pacífica,Cauca,Medio Ambiente,En Ejecución,2603516.42,2200,Bajo
+PRJ-2026426,2024-01-10,Caribe,Atlántico,Medio Ambiente,En Ejecución,145671.77,39879,Medio
+PRJ-2026427,2023-01-22,Caribe,Magdalena,Educación,Retrasado,4535026.13,24187,Medio
+PRJ-2026428,2023-08-26,Amazonía,Putumayo,Educación,En Planeación,3403834.22,20407,Medio
+PRJ-2026429,2023-06-07,Orinoquía,Arauca,Educación,Finalizado,671473.56,44824,Alto
+PRJ-2026430,2023-02-07,Caribe,Magdalena,Energía,En Ejecución,2205762.75,30531,Bajo
+PRJ-2026431,2023-08-18,Amazonía,Amazonas,Educación,Retrasado,3227206.8,6255,Medio
+PRJ-2026432,2023-12-31,Pacífica,Valle del Cauca,Tecnología,Finalizado,3394121.46,4526,Alto
+PRJ-2026433,2023-02-20,Andina,Antioquia,Medio Ambiente,En Ejecución,375189.55,41548,Medio
+PRJ-2026434,2024-03-13,Amazonía,Caquetá,Salud,Finalizado,2395358.65,41575,Alto
+PRJ-2026435,2023-09-21,Caribe,La Guajira,Educación,En Ejecución,3272238.81,49529,Medio
+PRJ-2026436,2023-10-10,Andina,Antioquia,Infraestructura,Retrasado,4485571.8,48252,Medio
+PRJ-2026437,2023-01-27,Caribe,Magdalena,Medio Ambiente,En Ejecución,2659962.65,13479,Alto
+PRJ-2026438,2023-08-14,Orinoquía,Arauca,Infraestructura,Retrasado,1719833.7,24089,Alto
+PRJ-2026439,2023-10-04,Orinoquía,Meta,Educación,Finalizado,4656503.68,6039,Medio
+PRJ-2026440,2023-10-13,Andina,Cundinamarca,Energía,Finalizado,3817387.11,19267,Medio
+PRJ-2026441,2023-04-07,Amazonía,Caquetá,Medio Ambiente,En Planeación,4646868.42,23073,Medio
+PRJ-2026442,2023-10-11,Caribe,Atlántico,Salud,En Ejecución,2826328.59,38505,Medio
+PRJ-2026443,2024-01-02,Amazonía,Amazonas,Infraestructura,Finalizado,4975157.78,47253,Bajo
+PRJ-2026444,2024-03-23,Pacífica,Cauca,Tecnología,Finalizado,3200866.3,25951,Bajo
+PRJ-2026445,2024-04-25,Pacífica,Chocó,Energía,Finalizado,2213129.63,40054,Medio
+PRJ-2026446,2024-03-28,Caribe,Atlántico,Energía,En Ejecución,4544099.03,28101,Alto
+PRJ-2026447,2023-11-13,Andina,Cundinamarca,Infraestructura,Finalizado,3798685.53,19696,Alto
+PRJ-2026448,2023-10-31,Caribe,La Guajira,Energía,Retrasado,3221045.16,21642,Medio
+PRJ-2026449,2023-05-27,Andina,Cundinamarca,Tecnología,Finalizado,2519533.54,12524,Alto
+PRJ-2026450,2023-01-04,Amazonía,Caquetá,Tecnología,En Ejecución,5909750.3,43278,Alto
+PRJ-2026451,2023-02-04,Amazonía,Caquetá,Tecnología,En Ejecución,4050963.43,27513,Medio
+PRJ-2026452,2023-07-11,Amazonía,Putumayo,Educación,Finalizado,52191.77,2887,Alto
+PRJ-2026453,2023-02-18,Andina,Cundinamarca,Salud,En Planeación,3816989.22,20308,Bajo
+PRJ-2026454,2023-01-17,Pacífica,Nariño,Tecnología,Retrasado,4757096.54,20158,Alto
+PRJ-2026455,2023-06-21,Caribe,Atlántico,Educación,Retrasado,2842166.44,1205,Medio
+PRJ-2026456,2023-08-08,Orinoquía,Meta,Salud,En Planeación,4873142.58,32698,Alto
+PRJ-2026457,2023-06-07,Caribe,Magdalena,Infraestructura,Retrasado,4783784.46,43461,Medio
+PRJ-2026458,2024-04-21,Amazonía,Amazonas,Medio Ambiente,Finalizado,2838456.98,49912,Alto
+PRJ-2026459,2023-02-15,Pacífica,Nariño,Salud,Retrasado,2179009.24,43098,Bajo
+PRJ-2026460,2024-01-08,Caribe,La Guajira,Medio Ambiente,Finalizado,2407861.88,47957,Alto
+PRJ-2026461,2023-01-06,Orinoquía,Meta,Medio Ambiente,En Ejecución,2989322.28,13969,Medio
+PRJ-2026462,2023-04-09,Orinoquía,Casanare,Educación,En Ejecución,4403508.03,47076,Medio
+PRJ-2026463,2024-01-15,Pacífica,Cauca,Infraestructura,Retrasado,3483409.38,20091,Medio
+PRJ-2026464,2023-08-21,Caribe,La Guajira,Infraestructura,Finalizado,274746.24,23255,Medio
+PRJ-2026465,2023-02-06,Amazonía,Amazonas,Energía,Finalizado,2972633.89,25375,Medio
+PRJ-2026466,2023-10-07,Amazonía,Amazonas,Salud,En Ejecución,99948.5,38502,Medio
+PRJ-2026467,2023-12-15,Pacífica,Chocó,Tecnología,En Planeación,3332083.6,19724,Medio
+PRJ-2026468,2024-05-11,Amazonía,Amazonas,Salud,En Ejecución,3577475.6,30206,Medio
+PRJ-2026469,2023-10-29,Pacífica,Chocó,Educación,En Ejecución,4043132.92,44682,Alto
+PRJ-2026470,2023-06-30,Amazonía,Caquetá,Medio Ambiente,En Ejecución,2101625.09,3373,Medio
+PRJ-2026471,2023-04-05,Pacífica,Chocó,Energía,Finalizado,259990.38,27228,Alto
+PRJ-2026472,2023-04-09,Andina,Santander,Tecnología,Finalizado,2822453.9,2900,Bajo
+PRJ-2026473,2023-07-07,Andina,Antioquia,Infraestructura,En Ejecución,4146156.28,20683,Alto
+PRJ-2026474,2024-04-25,Pacífica,Chocó,Educación,En Ejecución,4259834.49,36532,Bajo
+PRJ-2026475,2023-04-26,Caribe,Magdalena,Educación,En Ejecución,1711271.75,42391,Medio
+PRJ-2026476,2023-07-10,Amazonía,Putumayo,Educación,Retrasado,2832260.33,35098,Alto
+PRJ-2026477,2023-09-10,Andina,Antioquia,Infraestructura,Finalizado,1966824.49,7719,Medio
+PRJ-2026478,2024-04-13,Caribe,Bolívar,Infraestructura,Retrasado,3997859.43,26500,Bajo
+PRJ-2026479,2024-02-20,Caribe,Bolívar,Tecnología,Finalizado,3545656.26,17476,Medio
+PRJ-2026480,2024-04-15,Andina,Cundinamarca,Medio Ambiente,Finalizado,4320070.33,45680,Alto
+PRJ-2026481,2023-06-10,Pacífica,Cauca,Tecnología,En Ejecución,4053510.42,16935,Alto
+PRJ-2026482,2023-09-13,Orinoquía,Arauca,Salud,En Planeación,3993572.92,43626,Medio
+PRJ-2026483,2023-11-19,Pacífica,Chocó,Infraestructura,Finalizado,855934.5,41028,Medio
+PRJ-2026484,2023-05-08,Andina,Santander,Energía,En Ejecución,2087694.53,19652,Bajo
+PRJ-2026485,2023-01-18,Amazonía,Amazonas,Tecnología,Finalizado,3929611.22,30113,Bajo
+PRJ-2026486,2023-10-08,Caribe,La Guajira,Educación,Finalizado,330099.0,19090,Medio
+PRJ-2026487,2024-05-04,Orinoquía,Meta,Medio Ambiente,Retrasado,625145.23,22842,Alto
+PRJ-2026488,2023-08-11,Pacífica,Nariño,Energía,Finalizado,1660006.83,15266,Alto
+PRJ-2026489,2023-02-23,Caribe,Bolívar,Educación,En Ejecución,4886665.95,10661,Medio
+PRJ-2026490,2023-02-27,Caribe,Bolívar,Tecnología,Finalizado,3537544.42,14356,Alto
+PRJ-2026491,2023-11-19,Pacífica,Valle del Cauca,Tecnología,En Ejecución,2608110.2,14214,Medio
+PRJ-2026492,2023-12-26,Caribe,La Guajira,Salud,Finalizado,2997030.32,28990,Bajo
+PRJ-2026493,2023-06-23,Amazonía,Putumayo,Energía,En Ejecución,3494197.51,29367,Medio
+PRJ-2026494,2023-10-07,Pacífica,Cauca,Salud,En Ejecución,4826826.08,34610,Bajo
+PRJ-2026495,2023-04-24,Pacífica,Chocó,Educación,Retrasado,1598891.6,37063,Medio
+PRJ-2026496,2023-10-15,Pacífica,Nariño,Salud,En Planeación,574233.73,15538,Alto
+PRJ-2026497,2024-03-06,Pacífica,Chocó,Infraestructura,En Planeación,2958550.06,18945,Medio
+PRJ-2026498,2023-12-08,Andina,Boyacá,Tecnología,Finalizado,4684522.34,182,Medio
+PRJ-2026499,2023-05-31,Andina,Bogotá D.C.,Tecnología,Retrasado,3710070.74,31081,Medio
